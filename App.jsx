@@ -48,6 +48,7 @@ class App extends React.Component{
 }
 
 
+
 class CardDefault extends React.Component{
     render(){
         return(
